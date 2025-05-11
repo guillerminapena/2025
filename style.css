@@ -1,0 +1,32 @@
+@font-face {
+    font-family: 'gotham';
+    src: url(./assets/fuente/GothamSSm-Bold.otf);
+    src: url(./assets/fuente/GothamSSm-Light.otf);
+    src: url(./assets/fuente/GothamSSm-Medium.otf);
+    src: url(./assets/fuente/GothamSSm-Black.otf);    
+    src: url(./assets/fuente/GothamSSm-XLight.otf);
+}
+@font-face {
+    font-family: 'gotham';
+    src: url('/assets/fuente/GothamSSm-Bold.otf') format('woff2');
+    font-weight: 700; /* Bold */
+    font-style: normal;
+}
+@font-face {
+    font-family: 'gotham-light';
+    src: url('/assets/fuente/GothamSSm-Light.otf') format('woff2');
+    font-weight: 300; /* Bold */
+    font-style: normal;
+}
+@font-face {
+    font-family: 'gotham';
+    src: url('/assets/fuente/GothamSSm-Medium.otf') format('woff2');
+    font-weight: 500; /* Bold */
+    font-style: normal;
+}
+@font-face {
+    font-family: 'gotham';
+    src: url('/assets/fuente/GothamSSm-Black.otf') format('woff2');
+    font-weight: 900; /* Bold */
+    font-style: normal;
+}
