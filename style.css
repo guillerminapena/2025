@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'gotham';
+    src: url(assets/fuente/GothamSSm-Bold.otf);
+    src: url(assets/fuente/GothamSSm-Light.otf);
+    src: url(assets/fuente/GothamSSm-Medium.otf);
+    src: url(assets/fuente/GothamSSm-Black.otf);    
+    src: url(assets/fuente/GothamSSm-XLight.otf);
+}
+@font-face {
+    font-family: 'gotham';
+    src: url('assets/fuente/GothamSSm-Bold.otf') format('woff2');
+    font-weight: 700; 
+    font-style: bold;
+}
+@font-face {
+    font-family: 'gotham-light';
+    src: url('assets/fuente/GothamSSm-Light.otf') format('woff2');
+    font-weight: 300; 
+    font-style: thin;
+}
+@font-face {
+    font-family: 'gotham';
+    src: url('assets/fuente/GothamSSm-Medium.otf') format('woff2');
+    font-weight: 500; 
+    font-style: normal;
+}
+@font-face {
+    font-family: 'gotham';
+    src: url('assets/fuente/GothamSSm-Black.otf') format('woff2');
+    font-weight: 900; 
+    font-style: black;
+}
+
+
+
+
+@font-face {
+    font-family: 'montserrat';
+    src: url(assets/fuente/Montserrat-Regular.ttf);
+
+}
+@font-face {
+    font-family: 'montserrat';
+    src: url('assets/fuente/Montserrat-Regular.ttf') format('woff2');
+    font-weight: 500; /* normal */
+    font-style: normal;
+}
